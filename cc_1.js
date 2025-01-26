@@ -33,5 +33,10 @@ console.log ("After taxes:", accountBalance);
 //Task # 3 financial transaction
 
 let customername = Goku;
-let welcomemessage = "Hello Mr." + customername + "your purchase of the Ps5 has gone through!"
+let welcomemessage = "Hello Mr." + customername + "your purchase of the Ps5 has gone through!";
 console.log(welcomemessage);
+//task 4 customer messaging
+
+let isLoggedin = true;
+if (isLoggedin){console.log("Welcome!", employeeName);} else {console.log("Try again.");}
+// Task 5 - Access control
