@@ -32,3 +32,6 @@ console.log ("After taxes:", accountBalance);
 
 //Task # 3 financial transaction
 
+let customername = Goku;
+let welcomemessage = "Hello Mr." + customername + "your purchase of the Ps5 has gone through!"
+console.log(welcomemessage);
