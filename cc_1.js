@@ -7,7 +7,7 @@ console.log("ID:" , employeeID, "Type:" , typeof employeeID);
 console.log("Status:", isActive, "Type:", typeof isActive);
 //"Task 1 Employee Information"
 
-let productName = twix;
+let productName = "twix";
 const productPrice = 1.99;
 var isAvailable = true;
 
@@ -32,8 +32,8 @@ console.log ("After taxes:", accountBalance);
 
 //Task # 3 financial transaction
 
-let customername = Goku;
-let welcomemessage = "Hello Mr." + customername + "your purchase of the Ps5 has gone through!";
+let customername = "Goku";
+let welcomemessage = "Hello Mr." + customername + " your purchase of the Ps5 has gone through!";
 console.log(welcomemessage);
 //task 4 customer messaging
 
